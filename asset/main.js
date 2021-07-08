@@ -33,62 +33,62 @@ const app ={
     {
       name: "Dark side",
       singer: "Alan Walker",
-      path: '../asset/music/1.alan_walker_darkside.mp3',
-      image: '../asset/img/1.DarkSide.jpg'
+      path: './asset/music/1.alan_walker_darkside.mp3',
+      image: './asset/img/1.DarkSide.jpg'
     },
     {
       name: "LiLy",
       singer: "Alan Walker",
-      path: '../asset/music/2.alan_walker_lily.mp3',
-      image: '../asset/img/2.lily.jpg'
+      path: './asset/music/2.alan_walker_lily.mp3',
+      image: './asset/img/2.lily.jpg'
     },
     {
       name: "Kings and Queens",
       singer: "Ava Max",
-      path: '../asset/music/3.ava_max_kings_queens.mp3',
-      image: '../asset/img/3.kingQueen.jpg'
+      path: './asset/music/3.ava_max_kings_queens.mp3',
+      image: './asset/img/3.kingQueen.jpg'
     },
     {
       name: "Baby",
       singer: "Clean Bandit",
-      path: '../asset/music/4.clean_bandit_baby.mp3' ,
-      image: '../asset/img/4.baby.jpg'
+      path: './asset/music/4.clean_bandit_baby.mp3' ,
+      image: './asset/img/4.baby.jpg'
     },
     {
       name: "Rockabye",
       singer: "Clean Bandit",
-      path: '../asset/music/5.clean_bandit_rockabyemp3.mp3',
-      image: '../asset/img/5.rockabye.jpg'
+      path: './asset/music/5.clean_bandit_rockabyemp3.mp3',
+      image: './asset/img/5.rockabye.jpg'
     },
     {
       name: "Solo",
       singer: "Clean Bandit",
-      path: '../asset/music/6.clean_bandit_solo.mp3',
-      image: '../asset/img/6.solo.jpg'
+      path: './asset/music/6.clean_bandit_solo.mp3',
+      image: './asset/img/6.solo.jpg'
     },
     {
       name: "Symphony",
       singer: "Clean Bandit",
-      path: '../asset/music/7.clean_bandit_symphony.mp3',
-      image: '../asset/img/7.symphony.jpg'
+      path: './asset/music/7.clean_bandit_symphony.mp3',
+      image: './asset/img/7.symphony.jpg'
     },
     {
       name: "Sugar",
       singer: "Maroon 5",
-      path: '../asset/music/8.maroon_5_sugar.mp3',
-      image: '../asset/img/9.allMyWorst.jpg'
+      path: './asset/music/8.maroon_5_sugar.mp3',
+      image: './asset/img/9.allMyWorst.jpg'
     },
     {
       name: "All My Worst",
       singer: "Pink Sweat",
-      path: '../asset/music/9.pink_sweat_at_my_worst.mp3',
-      image: '../asset/img/9.sugar.jpg'
+      path: './asset/music/9.pink_sweat_at_my_worst.mp3',
+      image: './asset/img/9.sugar.jpg'
     },
     {
       name: "Littlest Things",
       singer: "Lily Allen",
-      path: '../asset/music/10.Littlest_Things-Lily_Allen\ \(mp3cut.net\).mp3',
-      image: '../asset/img/10.Lily_Allen-Littlest_Things.jpg'
+      path: './asset/music/10.Littlest_Things-Lily_Allen\ \(mp3cut.net\).mp3',
+      image: './asset/img/10.Lily_Allen-Littlest_Things.jpg'
     },
   ],
   //storing user's data
