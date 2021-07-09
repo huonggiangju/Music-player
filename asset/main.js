@@ -76,13 +76,14 @@ const app ={
       name: "Sugar",
       singer: "Maroon 5",
       path: 'asset/music/8.maroon_5_sugar.mp3',
-      image: 'asset/img/9.allMyWorst.jpg'
+      image: 'asset/img/9.sugar.jpg'
     },
     {
       name: "All My Worst",
       singer: "Pink Sweat",
       path: 'asset/music/9.pink_sweat_at_my_worst.mp3',
-      image: 'asset/img/9.sugar.jpg'
+    
+      image: 'asset/img/9.allMyWorst.jpg'
     },
     {
       name: "Littlest Things",
